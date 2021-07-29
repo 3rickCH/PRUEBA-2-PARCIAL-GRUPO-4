@@ -1,0 +1,26 @@
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.exe.config
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.exe
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.pdb
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.xml
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.FRM_REGISTROS.resources
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.Resources.resources
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.exe
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.xml
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.pdb
+C:\Users\hp\source\repos\POO-HERENCIAS\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.CARATULA.resources
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.exe.config
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.exe
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.pdb
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\bin\Debug\HERENCIAS- 2PARCIAL.xml
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.CARATULA.resources
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.FRM_REGISTROS.resources
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS__2PARCIAL.Resources.resources
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.exe
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.xml
+C:\Users\hp\source\repos\PRUEBA_2_PARCIAL\HERENCIAS- 2PARCIAL\obj\Debug\HERENCIAS- 2PARCIAL.pdb

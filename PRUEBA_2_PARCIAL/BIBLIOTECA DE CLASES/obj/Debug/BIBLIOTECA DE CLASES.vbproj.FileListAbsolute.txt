@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\bin\Debug\BIBLIOTECA DE CLASES.dll
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\bin\Debug\BIBLIOTECA DE CLASES.pdb
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\bin\Debug\BIBLIOTECA DE CLASES.xml
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA_DE_CLASES.Resources.resources
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.dll
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.xml
+C:\Users\hp\source\repos\POO-HERENCIAS\BIBLIOTECA DE CLASES\obj\Debug\BIBLIOTECA DE CLASES.pdb
